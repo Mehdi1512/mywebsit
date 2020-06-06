@@ -1,0 +1,87 @@
+ #carouselExampleControls .carousel {
+   width: 100%;
+   height: 400px;
+ }
+   .carousel-inner .carousel-item img {
+     width: 100%;
+     height: 400px;
+   }
+  .nav-link {
+      color: white !important;
+      padding: 15px !important;
+
+  } 
+ ul li  a:hover {
+      color: coral !important;
+  }
+    .section1{
+      width: 100%;
+      background-color: rgb(46, 45, 45);;
+    }
+   
+   .contanier {
+      background-color: black; height: 80% !important;
+      width: 90%;
+      justify-content: center;
+      margin-left: 5%;
+      padding: 30px;
+   }
+   .card-group {
+     padding: 5px !important;
+     
+
+   }
+    .card{
+      border: 5px solid  #4A148C;
+      margin: 15px;
+    }
+    .card-title {
+      text-align: center;
+      font-weight: bold;
+    }
+.section2{
+  background-color: rgb(51, 50, 50);
+  width: 90%;
+  margin-left: 5%;
+   
+}
+ .footer {
+   width: 100%;
+   height: 80%;
+   background-color: #424242;
+   margin-top: -15px;
+ }
+   .links {
+     color:  #CCFF90;
+   
+   }
+    .social {
+      display: flex;
+     justify-content: center;
+     list-style: none;
+     text-align: center;
+     
+    }  
+    .social a {
+      color: rgb(226, 80, 80);
+      margin: 30px;
+      margin-top: -140px;
+       
+    }
+    .flist ul li a {
+       margin: 15px;
+       padding: 10px;
+    }
+ .cnct{
+   margin-top: -160px;
+ }
+ .copy{
+  width: 100%;
+  height: 50px;
+  background-color:#F44336;
+}
+
+   
+
+ 
+

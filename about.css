@@ -1,0 +1,71 @@
+
+body {
+    background-color: rgb(156, 151, 151) !important;
+}
+.nav-link {
+    color: white !important;
+    padding: 15px !important;
+  }
+  ul li a:hover {
+    color: tomato !important;
+}
+.acco h4 {
+    text-align: center;
+    margin-top: 15%;
+    font-size: 50px;
+    font-family:   "Sofia";
+    color: white;
+   
+}
+.image {
+  margin:  15%;
+      
+}  
+.image p {
+    margin: 20px;
+    color: white;
+  }   
+
+
+
+.footer {
+    width: 100%;
+    height: 80%;
+    background-color: #424242;
+    margin-top: -20px !important;
+  }
+    .links {
+      color:  #CCFF90;
+    
+    }
+     
+    
+    ul li a:hover {
+        color: tomato !important;
+    }
+     .social {
+       display: flex;
+      justify-content: center;
+      list-style: none;
+      text-align: center;
+      
+     }  
+     .social a {
+       color: rgb(226, 80, 80);
+       margin: 30px;
+       margin-top: -140px;
+        
+     }
+     .flist ul li a {
+        margin: 15px;
+        padding: 10px;
+     }
+  .cnct{
+    margin-top: -160px;
+  }
+  .copy{
+   width: 100%;
+   height: 50px;
+   background-color:#F44336;
+  }
+  

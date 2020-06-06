@@ -1,0 +1,84 @@
+
+
+
+
+
+
+body {
+    background-color:   #222121 !important;
+}
+.nav-link {
+    color: white !important;
+    padding: 15px !important;
+  }
+.services h4 {
+    text-align: center;
+    margin-top: 15%;
+    font-size: 50px;
+    font-family:   "Sofia";
+    color: white;
+}
+
+  .row {
+      margin: 30px;
+  }
+ .container .row .col .card  {
+margin: 20px;
+ 
+ }
+ 
+   
+
+    
+        
+    
+      
+        
+ .card {
+     width: 300px;
+     height: 250px;
+      
+     
+ }
+.footer {
+    width: 100%;
+    height: 80%;
+    background-color: #424242;
+    margin-top: -20px !important;
+  }
+    .links {
+      color:  #CCFF90;
+    
+    }
+     
+    
+    ul li a:hover {
+        color: tomato !important;
+    }
+     .social {
+       display: flex;
+      justify-content: center;
+      list-style: none;
+      text-align: center;
+      
+      
+     }  
+     .social a {
+       color: rgb(226, 80, 80);
+       margin: 30px;
+       margin-top: -140px;
+        
+     }
+     .flist ul li a {
+        margin: 15px;
+        padding: 10px;
+     }
+  .cnct{
+    margin-top: -160px;
+  }
+  .copy{
+   width: 100%;
+   height: 50px;
+   background-color:#F44336;
+  }
+  

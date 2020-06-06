@@ -1,0 +1,82 @@
+
+body {
+    background-color: rgb(49, 48, 48) !important;
+}
+
+
+.nav-link {
+    color: white !important;
+    padding: 15px !important;
+  }
+  ul li a:hover {
+    color: tomato !important;
+}
+
+.acco h4 {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 50px;
+    font-family:   "Sofia";
+    color: white;
+}
+
+.image {
+  margin:  10%;
+      
+}  
+ .form-group{
+     width: 30%;
+      margin-left: 50%;
+        
+ }
+ 
+ 
+.form-group label {
+    color:  white;
+}
+.btn{
+    margin-left: 85%;
+    margin-top: -100px;
+}
+.footer {
+    width: 100%;
+    height: 80%;
+    background-color: #424242;
+    margin-top: -15px;
+  }
+    .links {
+      color:  #CCFF90;
+    
+    }
+     .social {
+       display: flex;
+      justify-content: center;
+      list-style: none;
+      text-align: center;
+      
+     }  
+     .social a {
+       color: rgb(226, 80, 80);
+       margin: 30px;
+       margin-top: -140px;
+        
+     }
+     .flist ul li a {
+        margin: 15px;
+        padding: 10px;
+     }
+  .cnct{
+    margin-top: -160px;
+  }
+  .copy{
+   width: 100%;
+   height: 50px;
+   background-color:#F44336;
+ }
+
+    
+ 
+  
+ 
+ 
+ 
